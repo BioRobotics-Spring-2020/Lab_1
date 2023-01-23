@@ -14,6 +14,7 @@ config.ini contains the following parameters:
 ### File info
 These parameters set-up the file save directory for the .csv files
 
+(You do not need these for this lab)
 ### Zephyr Info
 These parameters are used to set functions for the Zephyr BioHarness
 - macAddress : device mac address or "unknown". 
